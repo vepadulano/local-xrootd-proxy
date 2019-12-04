@@ -1,3 +1,3 @@
 #!/bin/bash
 
-xrootd -c proxy.conf
+/home/stefan/xrootd/build/src/xrootd -c proxy.conf
