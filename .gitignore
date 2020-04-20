@@ -1,2 +1,10 @@
 *.swp
 *.swo
+*.txt
+.gitignore
+*.root
+test_dimuon.cpp
+check_clusters.py
+cache/
+eosfiles/
+logs/
