@@ -8,3 +8,4 @@ check_clusters.py
 cache/
 eosfiles/
 logs/
+.clang-format
